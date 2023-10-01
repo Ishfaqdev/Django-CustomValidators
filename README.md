@@ -16,7 +16,7 @@ Django-CustomValidators is a Django project or application dedicated to providin
 
 To get started, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/Django-CustomValidators.git`
+1. Clone the repository: `git clone https://github.com/Ishfaqdev/Django-CustomValidators.git`
 2. Install the package: `pip install django-customvalidators`
 3. Configure and integrate custom validation rules into your Django forms and models.
 
